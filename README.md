@@ -1,4 +1,7 @@
 <span style="color:blue">Spotify Analysis</span>
+
+
+
 This repository showcases a data analysis project focused on Spotify, with detailed insights into music trends, user behavior, and key attributes of tracks. The project is implemented using Python and various data analysis libraries.
 
 Table of Contents
